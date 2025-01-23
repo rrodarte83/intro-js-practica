@@ -1,2 +1,3 @@
-# intro-js-practica
-Rodrigo Meneses Rodarte repo for Intro JS Practica
+# intro-js-practica - 
+Rodrigo Meneses Rodarte repo for Intro JS PracticaExit
+
