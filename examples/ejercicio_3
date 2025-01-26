@@ -1,0 +1,20 @@
+const input = [
+    'Downloads',
+    'Videos',
+    'capture',
+    'mp4'
+];
+
+const input_2 = [
+    'CodingGame',
+    'python',
+    'capturepy'
+];
+
+const transform = (input_func) => {
+    return input_func.join('/');
+}
+
+console.log(transform(input));
+
+

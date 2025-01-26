@@ -41,6 +41,4 @@ if (sumTotal < 50){
 }else {
     console.log("Has alcanzado el límite de tu compra");
 }
-
-
 console.log(' Total: ', sumTotal);
